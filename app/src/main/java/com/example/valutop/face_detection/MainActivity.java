@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     TextView text1;
     TextView text2;
     Bitmap myBitmap;
-    private FaceOverlayView mFaceOverlayView;
+   
     //protected Bitmap b = new Bitmap();
 
     @Override
